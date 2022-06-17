@@ -36,7 +36,4 @@ It is important to practice what you have learned from this book. Hence, we have
  - [Practice Quiz - Web version](https://saswebtechs.com.np/categories/5e9c5bcd002d0b0004658fc9)
 </div>
 
-# Contributors
 
-- [Suresh Kumar Mukhiya](https://github.com/sureshHARDIYA)
-- [Usman Ahmed](https://github.com/usman189)
